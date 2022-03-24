@@ -1,0 +1,119 @@
+Symbol,Atomic Number,Electronegativity,Atomic Radii (pm),Thermal Conductivity,Density,Crystal System
+H,1,2.2,53,0.1805,0.0000899,Simple Hexagonal
+He,2,,31,0.1513,0.000179,Face Centered Cubic
+Li,3,0.98,167,85,0.534,Body Centered Cubic
+Be,4,1.57,112,190,1.85,Simple Hexagonal
+B,5,2.04,87,27,2.34,Simple Trigonal
+C,6,2.55,67,140,2.27,Simple Hexagonal
+N,7,3.04,56,0.02583,0.00125,Simple Hexagonal
+O,8,3.44,48,0.02658,0.00143,Base Centered Monoclinic
+F,9,3.98,42,0.0277,0.0017,Base Centered Monoclinic
+Ne,10,,38,0.0491,0.0009,Face Centered Cubic
+Na,11,0.93,190,140,0.971,Body Centered Cubic
+Mg,12,1.31,145,160,1.74,Simple Hexagonal
+Al,13,1.61,118,235,2.7,Face Centered Cubic
+Si,14,1.9,111,150,2.33,Tetrahedral Packing
+P,15,2.19,98,0.236,1.82,Simple Triclinic
+S,16,2.58,88,0.205,2.07,Face Centered Orthorhombic
+Cl,17,3.16,79,0.0089,0.00321,Base Centered Orthorhombic
+Ar,18,,71,0.01772,0.00178,Face Centered Cubic
+K,19,0.82,243,100,0.862,Body Centered Cubic
+Ca,20,1,194,200,1.54,Face Centered Cubic
+Sc,21,1.36,184,16,2.99,Simple Hexagonal
+Ti,22,1.54,176,22,4.54,Simple Hexagonal
+V,23,1.63,171,31,6.11,Body Centered Cubic
+Cr,24,1.66,166,94,7.15,Body Centered Cubic
+Mn,25,1.55,161,7.8,7.44,Body Centered Cubic
+Fe,26,1.83,156,80,7.87,Body Centered Cubic
+Co,27,1.88,152,100,8.86,Simple Hexagonal
+Ni,28,1.91,149,91,8.91,Face Centered Cubic
+Cu,29,1.9,145,400,8.96,Face Centered Cubic
+Zn,30,1.65,142,120,7.13,Simple Hexagonal
+Ga,31,1.81,136,29,5.91,Base Centered Orthorhombic
+Ge,32,2.01,125,60,5.32,Face Centered Cubic
+As,33,2.18,114,50,5.78,Simple Trigonal
+Se,34,2.55,103,0.52,4.81,Simple Monoclinic
+Br,35,2.96,94,0.12,3.12,Base Centered Orthorhombic
+Kr,36,,88,0.00943,0.00373,Face Centered Cubic
+Rb,37,0.82,265,58,1.53,Body Centered Cubic
+Sr,38,0.95,219,35,2.64,Face Centered Cubic
+Y,39,1.22,212,17,4.47,Simple Hexagonal
+Zr,40,1.33,206,23,6.51,Simple Hexagonal
+Nb,41,1.6,198,54,8.57,Body Centered Cubic
+Mo,42,2.16,190,139,10.2,Body Centered Cubic
+Tc,43,1.9,183,51,11.5,Simple Hexagonal
+Ru,44,2.2,178,120,12.4,Simple Hexagonal
+Rh,45,2.28,173,150,12.4,Face Centered Cubic
+Pd,46,2.2,169,72,12,Face Centered Cubic
+Ag,47,1.93,165,430,10.5,Face Centered Cubic
+Cd,48,1.69,161,97,8.69,Simple Hexagonal
+In,49,1.78,156,82,7.31,Centered Tetragonal
+Sn,50,1.96,145,67,7.29,Centered Tetragonal
+Sb,51,2.05,133,24,6.69,Simple Trigonal
+Te,52,2.1,123,3,6.23,Simple Trigonal
+I,53,2.66,115,0.449,4.93,Base Centered Orthorhombic
+Xe,54,,108,0.00565,0.00589,Face Centered Cubic
+Cs,55,0.79,298,36,1.87,Body Centered Cubic
+Ba,56,0.89,253,18,3.59,Body Centered Cubic
+La,57,1.1,226,13,6.15,Simple Hexagonal
+Ce,58,1.12,210,11,6.77,Simple Hexagonal
+Pr,59,1.13,247,13,6.77,Simple Hexagonal
+Nd,60,1.14,206,17,7.01,Simple Hexagonal
+Pm,61,1.13,205,15,7.26,Simple Hexagonal
+Sm,62,1.17,238,13,7.52,Simple Trigonal
+Eu,63,1.2,231,14,5.24,Body Centered Cubic
+Gd,64,1.2,233,11,7.9,Simple Hexagonal
+Tb,65,1.2,225,11,8.23,Simple Hexagonal
+Dy,66,1.22,228,11,8.55,Simple Hexagonal
+Ho,67,1.23,226,16,8.8,Simple Hexagonal
+Er,68,1.24,226,15,9.07,Simple Hexagonal
+Tm,69,1.25,222,17,9.32,Simple Hexagonal
+Yb,70,1.1,222,39,6.97,Face Centered Cubic
+Lu,71,1.27,217,16,9.84,Simple Hexagonal
+Hf,72,1.3,208,23,13.3,Simple Hexagonal
+Ta,73,1.5,200,57,16.7,Body Centered Cubic
+W,74,2.36,193,170,19.3,Body Centered Cubic
+Re,75,1.9,188,48,21,Simple Hexagonal
+Os,76,2.2,185,88,22.6,Simple Hexagonal
+Ir,77,2.2,180,150,22.6,Face Centered Cubic
+Pt,78,2.28,177,72,21.5,Face Centered Cubic
+Au,79,2.54,174,320,19.3,Face Centered Cubic
+Hg,80,2,171,8.3,13.5,Simple Trigonal
+Tl,81,2.04,156,46,11.9,Simple Hexagonal
+Pb,82,2.33,154,35,11.3,Face Centered Cubic
+Bi,83,2.02,143,8,9.81,Base Centered Monoclinic
+Po,84,2,135,,9.32,Simple Cubic
+At,85,2.2,127,2,7,Face Centered Cubic
+Rn,86,,120,0.00361,0.00973,Face Centered Cubic
+Fr,87,0.7,,,1.87,Body Centered Cubic
+Ra,88,0.9,,19,5.5,Body Centered Cubic
+Ac,89,1.1,,12,10.1,Face Centered Cubic
+Th,90,1.3,,54,11.7,Face Centered Cubic
+Pa,91,1.5,,47,15.4,Centered Tetragonal
+U,92,1.38,,27,19,Base Centered Orthorhombic
+Np,93,1.36,,6,20.5,Simple Orthorhombic
+Pu,94,1.28,,6,19.8,Simple Monoclinic
+Am,95,1.3,,10,13.7,Simple Hexagonal
+Cm,96,1.3,,,13.5,Simple Hexagonal
+Bk,97,1.3,,10,14.8,Simple Hexagonal
+Cf,98,1.3,,,15.1,Simple Hexagonal
+Es,99,1.3,,,13.5,Face Centered Cubic
+Fm,100,1.3,,,,Body Centered Cubic
+Md,101,1.3,,,,Face Centered Cubic
+No,102,1.3,,,,Face Centered Cubic
+Lr,103,,,,,Simple Hexagonal
+Rf,104,,,,18.1,Simple Hexagonal
+Db,105,,,,39,Body Centered Cubic
+Sg,106,,,,35,Body Centered Cubic
+Bh,107,,,,37,Simple Hexagonal
+Hs,108,,,,41,Simple Hexagonal
+Mt,109,,,,35,Face Centered Cubic
+Ds,110,,,,,Body Centered Cubic
+Rg,111,,,,,Body Centered Cubic
+Cn,112,,,,,Simple Hexagonal
+Nh,113,,,,,
+Fl,114,,,,,
+Mc,115,,,,,
+Lv,116,,,,,
+Ts,117,,,,,
+Og,118,,,,,Face Centered Cubic
